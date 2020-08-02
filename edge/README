@@ -1,0 +1,17 @@
+### Create a virtualenv
+# python3 -m venv env
+
+### Enter the virtualenv
+# source env/bin/activate
+
+### Execute install.sh
+# ./install.sh
+
+### Run the client.py
+# python3 client.py --device=VALID_DEVICE_ID --location=LOC --modeldir=Sample_TFLite_model
+
+
+#### DOCUMENTATION ####
+# https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
+# https://cloud.google.com/community/tutorials/cloud-iot-gateways-rpi 
+#######################
